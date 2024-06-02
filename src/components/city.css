@@ -1,0 +1,13 @@
+h2 {
+    color: brown;
+}
+
+span {
+    color: brown;
+}
+
+.homepageDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+    gap: 20px
+}
